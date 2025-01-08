@@ -6,6 +6,9 @@ A simple and elegant news application built using Kotlin for Android. This app d
 |--------------|--------------|
 | ![News List Screen](Screenshots/NewsListScreen.jpg) | ![News Details Screen](Screenshots/NewsDetailsScreen.jpg) |
 
+## Download APK
+[Download apk from here](NewsApp.apk)
+
 ## Features
 - List of news articles
 - Details of news article with full information
@@ -18,7 +21,6 @@ A simple and elegant news application built using Kotlin for Android. This app d
 - Hilt - Dependency injection library
 
 ## Installation
-
 - Clone the repository:
    ```bash
    git clone https://github.com/ShrutiHingrajiya16/NewsApp.git
