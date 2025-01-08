@@ -2,7 +2,7 @@
 A simple and elegant news application built using Kotlin for Android. This app displays Top US headlines.
 
 ## Screenshots
-![News List Screen](Screenshots/News List Screen.jpg)
+![News List Screen](Screenshots/NewsDetailsScreen.jpg)
 ![Article Details Screen](Screenshots/News List Screen.jpg)
 
 ## Features
