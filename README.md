@@ -2,8 +2,8 @@
 A simple and elegant news application built using Kotlin for Android. This app displays Top US headlines.
 
 ## Screenshots
-![News List Screen](link_to_home_screen_image)
-![Article Details Screen](link_to_article_detail_image)
+![News List Screen](Screenshots/News List Screen.jpg)
+![Article Details Screen](Screenshots/News List Screen.jpg)
 
 ## Features
 - List of news articles
@@ -17,7 +17,7 @@ A simple and elegant news application built using Kotlin for Android. This app d
 - Hilt - Dependency injection library
 
 ## Download APK
-![APK](link_to_home_screen_image)
+![APK](APK/News App.apk)
 
 ## Installation
 
