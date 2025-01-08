@@ -17,9 +17,6 @@ A simple and elegant news application built using Kotlin for Android. This app d
 - JUnit - Testing library
 - Hilt - Dependency injection library
 
-## Download APK
-[You can download apk from here](APK/NewsApp.apk)
-
 ## Installation
 
 - Clone the repository:
